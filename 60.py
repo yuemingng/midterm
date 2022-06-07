@@ -1,0 +1,7 @@
+first=str(input("請輸入一串小寫英文:"))
+second=first.replace("a",".")
+third=second.replace("e",".")
+fourth=third.replace("i",".")
+fifth=fourth.replace("o",".")
+sixth=fifth.replace("u",".")
+print(sixth)
